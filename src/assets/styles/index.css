@@ -27,7 +27,7 @@ h1 span {
   @apply font-normal text-gray-300;
 }
 h2 {
-  @apply text-2xl text-gray-300;
+  @apply mt-10 text-2xl text-gray-300;
 }
 h3 {
   @apply text-xl text-gray-300;
@@ -67,5 +67,6 @@ ul {
 .webpack {
   color: #1c78c1;
 }
+
 @tailwind components;
 @tailwind utilities;
