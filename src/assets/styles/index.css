@@ -1,0 +1,71 @@
+@tailwind base;
+a {
+  @apply text-link-500;
+}
+a:hover {
+  @apply text-link-700;
+}
+article > * + * {
+  @apply my-4;
+}
+article footer {
+  @apply flex items-center justify-between py-6;
+}
+article footer a {
+  @apply font-semibold text-xl;
+}
+button {
+  @apply bg-link-500 font-semibold px-4 py-2 rounded text-xl;
+}
+button:hover {
+  @apply bg-link-700;
+}
+h1 {
+  @apply font-semibold text-3xl text-gray-100;
+}
+h1 span {
+  @apply font-normal text-gray-300;
+}
+h2 {
+  @apply text-2xl text-gray-300;
+}
+h3 {
+  @apply text-xl text-gray-300;
+}
+li,
+p {
+  @apply text-gray-500;
+}
+li {
+  @apply pl-3;
+}
+strong {
+  @apply font-semibold text-gray-100;
+}
+ol {
+  @apply list-decimal pl-8;
+}
+ul {
+  @apply list-disc pl-8;
+}
+
+.intro {
+  @apply text-xl;
+}
+.codepen {
+  color: #ffdd40;
+}
+.github {
+  color: #0366d6;
+}
+.gitlab {
+  color: #e65328;
+}
+.vue {
+  color: #42b983;
+}
+.webpack {
+  color: #1c78c1;
+}
+@tailwind components;
+@tailwind utilities;
