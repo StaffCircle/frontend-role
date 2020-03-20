@@ -23,6 +23,7 @@ const routes = [
 ]
 
 const router = new VueRouter({
+  base: process.env.NODE_ENV === 'production' ? '/frontend-role/' : '/',
   mode: 'history',
   routes,
   scrollBehavior () {
