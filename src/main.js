@@ -10,3 +10,5 @@ new Vue({
   router,
   render: h => h(App)
 }).$mount('#app')
+
+console.log('Thanks for your interest, if you\'d like to see\nhow this page has been put together then visit:\nhttps://github.com/StaffCircle/frontend-role')
