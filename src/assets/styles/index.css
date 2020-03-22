@@ -61,11 +61,20 @@ ul {
 .gitlab {
   color: #e65328;
 }
+.sass {
+  color: #bf4080;
+}
+.stylus {
+  color: #ff6347;
+}
 .vue {
   color: #42b983;
 }
 .webpack {
   color: #1c78c1;
+}
+.workbox {
+  color: #e8710a;
 }
 
 @tailwind components;

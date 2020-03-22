@@ -12,7 +12,7 @@
     </ul>
     <h2>Skills &amp; Experience</h2>
     <ul>
-      <li>Strong experience working with frontend technologies; JavaScript (<span class="vue">Vue.js</span> is desirable, but not essential), CSS and HTML.</li>
+      <li>Strong experience working with frontend technologies; JavaScript (<span class="vue">Vue.js</span> is desirable, but not essential, previous experience working with <abbr title="Progressive Web App">PWA</abbr>s and <span class="workbox">Workbox</span> is a big plus), CSS (and pre-processors like <span class="sass">Sass</span> or <span class="stylus">Stylus</span>) and HTML.</li>
       <li>Strong experience working with frontend build frameworks/tools (<span class="webpack">webpack</span>)</li>
       <li>Experience of working within an Agile framework</li>
       <li>Strong verbal and written communication skills</li>
