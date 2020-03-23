@@ -1,10 +1,17 @@
 import Vue from 'vue'
 import App from './App.vue'
+import router from './router'
+import VueAnalytics from 'vue-analytics'
 
 import './assets/styles/index.css'
-import router from './router'
+
+const GA_TRACKING_CODE = 'UA-109767818-4'
 
 Vue.config.productionTip = false
+
+Vue.use(VueAnalytics, {
+  id: GA_TRACKING_CODE
+})
 
 new Vue({
   router,

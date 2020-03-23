@@ -1,8 +1,12 @@
 import Vue from 'vue'
+import VueAnalytics from 'vue-analytics'
 import VueRouter from 'vue-router'
+
 import Home from '../views/Home.vue'
 
 Vue.use(VueRouter)
+
+const GA_TRACKING_CODE = 'UA-109767818-4'
 
 const routes = [
   {
@@ -29,6 +33,11 @@ const router = new VueRouter({
   scrollBehavior () {
     return { x: 0, y: 0 }
   }
+})
+
+Vue.use(VueAnalytics, {
+  id: GA_TRACKING_CODE,
+  router
 })
 
 export default router
