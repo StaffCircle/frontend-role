@@ -1,10 +1,6 @@
 <template>
   <article class="apply">
-    <h1>
-      Frontend Engineer
-      <span>(<span class="vue">Vue.js</span>) - Remote, UK - up to</span>
-      £50,000
-    </h1>
+    <page-header />
     <app-alert
       light
       title="A note to Recruitment Agencies"
@@ -45,11 +41,13 @@
 
 <script>
 import AppAlert from '../components/AppAlert.vue'
+import PageHeader from '../components/PageHeader.vue'
 
 export default {
   name: 'PageApply',
   components: {
-    AppAlert
+    AppAlert,
+    PageHeader
   }
 }
 </script>
