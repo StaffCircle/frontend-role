@@ -1,6 +1,7 @@
 <template>
   <article class="about">
     <page-header />
+    <p><big>The all-in-one remote employee system delivering communications, culture, performance &amp; feedback.</big></p>
     <h2>Who we are</h2>
     <p>Our mission is to Engage, Empower and Enhance the experience of all workers. We've all seen first hand how internal communications and employee feedback is fundamentally flawed in most workplaces, and poor communications causes low morale, low productivity and negative experience for workers. From this, the company was born.</p>
     <p>We strive to create a place where communications and productivity can flow on any device in any location helping to better empower, engage and enhance every company's most valuable asset - their people.</p>
