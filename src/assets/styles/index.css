@@ -56,6 +56,9 @@ p {
 li {
   @apply pl-3;
 }
+li code {
+  @apply text-gray-100;
+}
 strong {
   @apply font-semibold text-gray-100;
 }

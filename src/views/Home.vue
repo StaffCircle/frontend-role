@@ -5,6 +5,7 @@
     <ul>
       <li>Do you enjoy building <strong>user-focused web apps</strong> with modern technology that gets used by a variety of people?</li>
       <li>Do you like working as part of a friendly, supportive and high-performing team, offering an <strong>outstanding work-life balance</strong>?</li>
+      <li>Do you know your <code>em</code> from your <code>rem</code>, your <code>pop</code> from your <code>push</code>?</li>
     </ul>
     <h2>Skills &amp; Experience</h2>
     <ul>
