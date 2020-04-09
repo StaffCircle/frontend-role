@@ -12,7 +12,7 @@
     <ol>
       <li>Live in the UK, and be eligible to work in the UK</li>
       <li>Must be able to travel to our main office (in Leicester city centre) about once a month</li>
-      <li>Have shareable code examples (either an online portforlio, or open-source repositories on <span class="codepen">Codepen</span>, <span class="github">Github</span>, <span class="gitlab">Gitlab</span>, or similar)</li>
+      <li>Have shareable code examples (either an online portfolio, or open-source repositories on <span class="codepen">Codepen</span>, <span class="github">Github</span>, <span class="gitlab">Gitlab</span>, or similar)</li>
     </ol>
     <p>If you're confident that you meet the above, then please email a copy of your <strong>current CV</strong> and a <strong>write-up</strong> of why you think you'd be a great team member.</p>
     <p>The email address to send your CV to is <code><a href="mailto:frontendrole@staffcircle.com">frontendrole@staffcircle.com</a></code>.</p>
