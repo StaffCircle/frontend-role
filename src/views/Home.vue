@@ -9,14 +9,14 @@
     </ul>
     <h2>Skills &amp; Experience</h2>
     <ul>
-      <li>Strong experience working with frontend technologies; JavaScript (<span class="vue">Vue.js</span> is desirable, but not essential, previous experience working with <abbr title="Progressive Web App">PWA</abbr>s and <span class="workbox">Workbox</span> is a big plus), CSS (and pre-processors like <span class="sass">Sass</span> or <span class="stylus">Stylus</span>) and HTML.</li>
+      <li>Extensive experience working with frontend technologies; JavaScript (<span class="vue">Vue.js</span> is desirable, but not essential, previous experience working with <abbr title="Progressive Web App">PWA</abbr>s and <span class="workbox">Workbox</span> is a big plus), CSS (and pre-processors like <span class="sass">Sass</span> or <span class="stylus">Stylus</span>) and HTML.</li>
       <li>Strong experience working with frontend build frameworks/tools (<span class="webpack">webpack</span>)</li>
-      <li>Experience of working within an Agile framework</li>
+      <li>Experience creating unit tests and E2E tests would be beneficial</li>
+      <li>Thrive working within an Agile framework, collaborating openly with colleagues</li>
       <li>Strong verbal and written communication skills</li>
-      <li>Experience of working with in a collaborative manner</li>
       <li>Team oriented approach and strong interpersonal skills</li>
       <li>Desire to learn and develop new and existing skills/competencies</li>
-      <li>Ability to communicate and influence</li>
+      <li>Ability to influence direction of products through data-driven evidence</li>
     </ul>
     <h2>Responsibilities</h2>
     <ul>

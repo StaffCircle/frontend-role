@@ -16,7 +16,7 @@ article footer a {
   @apply font-semibold text-xl;
 }
 article header {
-  @apply flex flex-col items-center justify-between w-full;
+  @apply border-b border-gray-800 flex flex-col items-center justify-between mb-8 w-full;
 }
 article header button {
   @apply self-center w-full;
@@ -99,11 +99,10 @@ ul {
 
 @keyframes fadeIn {
   from {
-    transform: translate3d(0, 2em, 0);
+    opacity: 0;
   }
 
   to {
-    transform: translate3d(0, 0, 0);
     opacity: 1
   }
 }
@@ -115,7 +114,6 @@ ul {
 
 .fade-in-enter {
   opacity: 0;
-  transform: translate3d(0, 2em, 0);
 }
 
 .fade-in-enter-to {

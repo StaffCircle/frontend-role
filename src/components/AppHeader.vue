@@ -6,10 +6,6 @@
         width="240px"
       />
     </div>
-    <div class="role">
-      <span class="title">Frontend Developer Role</span>
-      <span class="location">Remote, UK</span>
-    </div>
   </header>
 </template>
 
