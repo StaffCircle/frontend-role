@@ -72,6 +72,9 @@ ul {
 .intro {
   @apply text-xl;
 }
+.intro .company {
+  @apply font-normal text-white;
+}
 .codepen {
   color: #ffdd40;
 }

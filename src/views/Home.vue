@@ -1,7 +1,7 @@
 <template>
   <article class="home">
     <page-header />
-    <p class="intro">If you're an enthusiastic, friendly and driven coder, then this is a great opportunity with an established UK-based <strong>technology-driven start up</strong>.</p>
+    <p class="intro">If you're an enthusiastic, friendly and driven coder, then this is a great opportunity to join <span class="company">staff<b>circle</b></span> &mdash; we're an established UK-based <strong>technology-driven start up</strong>.</p>
     <ul>
       <li>Do you enjoy building <strong>user-focused web apps</strong> with modern technology that gets used by a variety of people?</li>
       <li>Do you like working as part of a friendly, supportive and high-performing team, offering an <strong>outstanding work-life balance</strong>?</li>
